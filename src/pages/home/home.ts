@@ -28,7 +28,7 @@ export class HomePage {
             data: {
                 labels: ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
                 datasets: [{
-                    label: '# of Votes',
+                    label: '# of Votes1111',
                     data: [12, 19, 3, 5, 2, 3],
                     backgroundColor: [
                         'rgba(255, 99, 132, 0.2)',
